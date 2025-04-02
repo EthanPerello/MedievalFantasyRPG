@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Interaction.unity
+    guid: 868697ae1b67b4532ae14c6af41f3025
+  - enabled: 1
+    path: Assets/Scenes/Village.unity
+    guid: d2809ab9b90eea7419d8d90d4c505d35
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 02895cdfebe3e4436a8bd971d0bbe0e4
+  - enabled: 1
+    path: Assets/Scenes/GoblinLand.unity
+    guid: 6fe6d2ac27df24294878be68e982796e
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: 16a15255c054b4056aeecd6021a9c94b
+  - enabled: 1
+    path: Assets/Scenes/CreateCharacter.unity
+    guid: ffe46cd495f73428c9d6e6ac937dc350
+  - enabled: 1
+    path: Assets/Scenes/Island.unity
+    guid: 7be77fd5f74584966b10516ab45581cd
+  - enabled: 1
+    path: Assets/Scenes/LevelUp.unity
+    guid: 1bba080a12a96450285d67d02a26321c
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bb0897fdba4124b4abe54fd6a4c1f61d
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+  m_UseUCBPForAssetBundles: 0
