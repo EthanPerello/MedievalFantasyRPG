@@ -13,7 +13,7 @@ A feature-rich RPG built in Unity where players explore a fantasy world, fight e
 
 ## 🎮 Play Now
 
-[Playable Build on Itch.io](https://ethanperello.itch.io/midieval-fantasy-rpg)
+[Play]([https://ethanperello.itch.io/midieval-fantasy-rpg](https://ethanperello.github.io/MidievalFantasyRPG/))
 
 ## 🛠 Tech Stack
 
