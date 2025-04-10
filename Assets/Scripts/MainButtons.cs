@@ -30,7 +30,8 @@ public class MainButtons : MonoBehaviour
 
     public void NewGame() {
         PlayerPrefs.DeleteAll();
-        SceneManager.LoadScene("CreateCharacter");
+        // Load the controls screen instead of directly going to character creation
+        SceneManager.LoadScene("ControlsScreen");
     }
 
     public void LoadGame() {
